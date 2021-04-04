@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asaingp
-- 👀 I’m interested in CLoud Security
+- 👀 I’m interested in Cloud Security
 - 🌱 I’m currently learning Ethical Hacking, Security concepts
 - 💞️ I’m looking to collaborate on Security
 
